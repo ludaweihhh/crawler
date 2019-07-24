@@ -1,0 +1,1279 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Date: Wed, 24 Jul 2019 08:31:04 GMT
+Vary: Accept-Encoding
+Link: <http://jandan.net/wp-json/>; rel="https://api.w.org/"
+Link: <http://jandan.net/?p=21183>; rel=shortlink
+Expires: Wed, 24 Jul 2019 08:32:04 GMT
+Cache-Control: max-age=60
+X-Powered-By: PHP/5.2.10
+Ali-Swift-Global-Savetime: 1563957064
+Via: cache2.l2nu20-3[121,200-0,M], cache37.l2nu20-3[128,0], kunlun6.cn410[173,200-0,M], kunlun4.cn410[174,0]
+X-Cache: MISS TCP_REFRESH_MISS dirn:-2:-2
+X-Swift-SaveTime: Wed, 24 Jul 2019 08:31:05 GMT
+X-Swift-CacheTime: 59
+Timing-Allow-Origin: *
+EagleId: 3df09b9815639570648505292e
+
+2dc5
+<!DOCTYPE html>
+<html dir="ltr" lang="zh">
+<head>
+<title>
+随手拍 - 分享经典一刻
+</title>
+<meta name="referrer" content="never"> <meta name="keywords" content="随手拍,身边的趣图,手机摄影,经典一刻"/>
+<meta name="description" content="大家手机相册里应该有不少有趣的图片，欢迎发到这里，分享你的经典一刻。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Window-target" Content="_top">
+<meta name="baidu-site-verification" content="9wC0PEtTmEqSNlOk"/>
+<meta http-equiv="mobile-agent" content="format=html5; url=//i.jandan.net/ooxx">
+<meta name="robots" content="index,follow">
+<link rel="stylesheet" href="//cdn.jandan.net/static/min/ae7440a50efa5b4530bfd422649d37b1GHBNb2iU.22100004.css" type="text/css" media="screen"/>
+<link rel="apple-touch-icon" href="//cdn.jandan.net/static/img/appicon.png">
+<link rel="shortcut icon" href="//cdn.jandan.net/static/img/favicon.ico"/>
+<link rel="canonical" href="http://jandan.net/ooxx" /> <script>if (window != top)top.location.href = window.location.href;</script>
+<!--[if lt IE 9]>
+    <script src="//cdn.jandan.net/static/jquery/1.11.1/jquery.min.js"></script>
+    <![endif]-->
+<!--[if gte IE 9]><!-->
+    <script src="//cdn.jandan.net/static/jquery/2.0.3/jquery.min.js"></script>
+    <!--<![endif]-->
+<script src="//cdn.jandan.net/static/js/velocity-1.5.0.min.js"></script>
+<script src="//cdn.jandan.net/static/js/jquery.lazyload.1.9.5.js"></script>
+<script>
+		var $JANDAN = {
+            GO_API: false,
+			IS_MOBILE : false,
+			COOKIE_HASH : '01b0531fab6a989460dd1b231010b496',
+			SITE_URL : 'http://jandan.net',
+            API_URL : '//jandan.net'
+		};
+		if (/(Android|iPhone|Windows Phone)/i.test(navigator.userAgent)) {
+			window.location = '//i.jandan.net' + window.location.pathname + window.location.hash;
+		}
+    </script>
+<script src="//cdn.jandan.net/static/min/263fc36f96a9e533fc5b091114e48a04LxPO7dBq.25100001.js"></script>
+<script>
+        eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('(g(){1 d=["j","a","0","d","a","0",".","0","e","f"];1 3=7 8(d.2(\'\')+\'$\');4(!3.9(b.c)){1 a=5.6.h;4(a==\'/\'){a=\'\'}5.6.i=\'k://\'+d.2(\'\')+\'/\'+a}})($l);',22,22,'n|var|join|r|if|window|location|new|RegExp|test||document|domain|||t|function|pathname|href||http|JANDAN'.split('|'),0,{}));
+    </script>
+</head>
+<body>
+<div id="wrapper">
+<div id="header">
+<div class="logo">
+<h1><a href="/" onclick="ga('send', 'pageview','/header/logo');">煎蛋</a></h1>
+</div>
+<div class="break"></div>
+<div class="nav">
+<ul class="nav-items">
+<li class="nav-item f"><a href="/" onfocus="blur()" onclick="ga('send', 'pageview','/header/index');" class="nav-link">首页</a></li>
+<li class="nav-item"><a class="nav-link" href="/qa" onfocus="blur()" onclick="ga('send', 'pageview','/header/qa');" class="nav-link">问答</a></li>
+<li class="nav-item"><a class="nav-link" href="/treehole" onfocus="blur()" onclick="ga('send', 'pageview','/header/treehole');" class="nav-link">树洞</a></li>
+<li class="nav-item"><a class="nav-link" href="/ooxx" onfocus="blur()" onclick="ga('send', 'pageview','/header/ooxx');" class="nav-link">随手拍</a></li>
+<li class="nav-item"><a class="nav-link" href="/zoo" onfocus="blur()" onclick="ga('send', 'pageview','/header/zoo');" class="nav-link">动物园</a></li>
+<li class="nav-item"><a class="nav-link" href="/pic" onfocus="blur()" onclick="ga('send', 'pageview','/header/pic');" class="nav-link">无聊图</a></li>
+<li class="nav-item"><a class="nav-link" href="/top" onfocus="blur()" onclick="ga('send', 'pageview','/header/top');" class="nav-link">热榜</a></li>
+<li class="nav-item" style="float:right;"><a class="nav-link" style="color:#666" href="/pond" onfocus="blur()" onclick="ga('send', 'pageview','/header/pond');" class="nav-link">鱼塘</a></li>
+<li class="nav-item" style="float:right;"><a class="nav-link" style="color:#666" href="/zhoubian" onfocus="blur()" onclick="ga('send', 'pageview','/header/zhoubian');">周边</a></li>
+</ul>
+<div class="break"></div>
+</div>
+</div>
+<div id="body">
+<div id="content">
+<h1 class="title">随手拍</h1>
+<div class="post f">
+<p>大家手机相册里应该有不少有趣的图片，欢迎发到这里，分享你的经典一刻。</p>
+<p><small><strong>发图方法</strong><br />
+上传到<a href="//photo.weibo.com/photos/upload">微博相册</a>；右键复制图片地址，在<a href="#respond">评论框</a>粘帖图片地址；等待更新。<br />
+请勿发布AV截图/裸体/露点图/偷拍、带有网址/商标/二维码等水印、涉嫌隐私或转载他人的未授权图片。<br />
+</small></p>
+<hr />
+<style>
+	.switch {
+		display: inline-block;
+		padding: 0 5px;
+		border: 1px solid #444;
+		cursor: pointer;
+		line-height: 14px;
+		text-align: center;
+		color: #aaa;
+		font-size: 10px;
+		vertical-align: middle;
+	}
+	.switch-current {
+		background-color: #333;
+		color: #fff;
+
+	}
+
+</style>
+<p>
+GIF图点击加载: <span class="switch switch-current" id="gif-click-load-on">ON</span><span class="switch " id="gif-click-load-off">OFF</span>&nbsp;&nbsp;
+NSFW图自动隐藏: <span class="switch switch-current" id="nsfw-click-load-on">ON</span><span class="switch " id="nsfw-click-load-off">OFF</span>&nbsp;&nbsp;
+隐藏不受欢迎图片: <span class="switch switch-current" id="bad-click-load-on">ON</span><span class="switch " id="bad-click-load-off">OFF</span>
+</p> </div>
+<div id="comments">
+<div style="clear:both;"></div>
+<h3 class="title" id="comments"><span class="plusone"><a href="#respond" title="来一发">+1</a></span></h3>
+<span class="break"></span>
+<div class="comments">
+<div class="cp-pagenavi">
+<a title="Newer Comments" href="//jandan.net/ooxx/page-3#comments" class="next-comment-page">上一页</a>
+<a href="//jandan.net/ooxx/page-4#comments">
+4 </a>
+<a href="//jandan.net/ooxx/page-3#comments">
+3 </a>
+<span class="current-comment-page">[2]</span>
+<a href="//jandan.net/ooxx/page-1#comments">
+1 </a>
+<a title="Older Comments" href="//jandan.net/ooxx/page-1#comments" class="previous-comment-page">下一页</a>
+</div>
+</div>
+<ol class="commentlist" style="list-style-type: none;">
+<li id="comment-4300549">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：08f2e7ba1732a6dd62da29200b5521cdad0f57da" class="orange-name">Fish</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300549&quot;&gt;Fish&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300549">4300549</a></span><p><a href="//wx1.sinaimg.cn/large/80baaec0ly1g524hp8k1dj20qo0qob29.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx1.sinaimg.cn/mw600/80baaec0ly1g524hp8k1dj20qo0qob29.jpg" referrerPolicy="no-referrer" /> 2018工作时摄。©️煎蛋</p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300549">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300549" data-type="pos">OO</a> [<span>39</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300549" data-type="neg">XX</a> [<span>12</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300549"> 吐槽 [6] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4300532">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：1784b2f7b20943de9fd6949fc624719f952f67f1" class="orange-name">nick</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300532&quot;&gt;nick&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300532">4300532</a></span><p><a href="//ws1.sinaimg.cn/large/b01237dagy1g522yuh6twj21201eox56.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws1.sinaimg.cn/mw600/b01237dagy1g522yuh6twj21201eox56.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300532">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300532" data-type="pos">OO</a> [<span>98</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300532" data-type="neg">XX</a> [<span>87</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300532"> 吐槽 [13] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4300529">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：fe55fd19b7cf4521d7b94724fc336c809f00aeb1" class="">东尼木大</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300529&quot;&gt;东尼木大&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300529">4300529</a></span><p>我的卡到了哦，唯一的零成本摸鱼<br />
+<a href="//ws2.sinaimg.cn/large/df819a5bgy1g522sbdh9kj20o60w8wrl.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws2.sinaimg.cn/mw600/df819a5bgy1g522sbdh9kj20o60w8wrl.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300529">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300529" data-type="pos">OO</a> [<span>156</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300529" data-type="neg">XX</a> [<span>53</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300529"> 吐槽 [9] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<span class="break"></span><li class="row">
+<div style="padding-left:120px;padding-top:10px;padding-bottom:15px;width:336px;">
+<script type="text/javascript" src="//a3.jandan.net/site/api/zxm78u.js?kfcunl=nc"></script></div>
+</li>
+<li id="comment-4300491">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：7127563129b7ff7cbfb3019fc5a65f4d43e21982" class="">zzZ</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300491&quot;&gt;zzZ&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300491">4300491</a></span><p><a href="//ws3.sinaimg.cn/large/005H7KjIly1g520bzz9k6j31601k0kjm.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws3.sinaimg.cn/mw600/005H7KjIly1g520bzz9k6j31601k0kjm.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+
+778
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300491">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300491" data-type="pos">OO</a> [<span>323</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300491" data-type="neg">XX</a> [<span>18</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300491"> 吐槽 [9] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4300389">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：a6e805c7cc1512efec3bbee1735cd50160137e44" class="">（TiiiT）</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300389&quot;&gt;（TiiiT）&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300389">4300389</a></span><p>再来试一下<br />
+<a href="//ws1.sinaimg.cn/large/00745YaMgy1g51wy6up3wj30m80gowgb.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws1.sinaimg.cn/mw600/00745YaMgy1g51wy6up3wj30m80gowgb.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300389">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300389" data-type="pos">OO</a> [<span>37</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300389" data-type="neg">XX</a> [<span>4</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300389"> �
+2222
+��槽 [2] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4300388">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：c05de9a8f5f340a9a9cbf216f6f58e5054dcd97a" class="">旻天</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300388&quot;&gt;旻天&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300388">4300388</a></span><p>厦门湖里高新技术园<br />
+<a href="//wx4.sinaimg.cn/large/e220e347ly1g51ww6skijj21o00xrnpd.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/e220e347ly1g51ww6skijj21o00xrnpd.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300388">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300388" data-type="pos">OO</a> [<span>36</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300388" data-type="neg">XX</a> [<span>7</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300388"> 吐槽 [5] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4300309">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：67b2e69e283ed145e09ba1315e5ba5a39aa51ce0" class="">风把云吹开</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300309&quot;&gt;风把云吹开&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300309">4300309</a></span><p>梧州美食<br />
+<a href="//ws3.sinaimg.cn/large/0061r09nly1g51sprwhzqj31201eonpd.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws3.sinaimg.cn/mw600/0061r09nly1g51sprwhzqj31201eonpd.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300309">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300309" data-type="pos">OO</a> [<span>29</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300309" data-type="neg">XX</a> [<span>54</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300309"> 吐槽 [10] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4300267">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：82c52dd726670f9e8e09159ac73ccc7952963ba2" class="">画眉鸟</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300267&quot;&gt;画眉鸟&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300267">4300267</a></span><p>一只鸡<br />
+<a href="//wx2.sinaimg.cn/large/006kYGiAly1g51qpi1vc5j31vl1eoe81.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx2.sinaimg.cn/mw600/006kYGiAly1g51qpi1vc5j31vl1eoe81.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300267">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300267" data-type="pos">OO</a> [<span>79</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300267" data-type="neg">XX</a> [<span>16</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300267"> 吐槽 [7] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4300226">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：719e5ee2bcfb342441669bee750ab7e2c9ec72bb" class="">筱茵纯</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300226&quot;&gt;筱茵纯&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300226">4300226</a></span><p><a href="//ws3.sinaimg.cn/large/c2cc11cbly1g51q0c7l8ij20u017vmzx.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws3.sinaimg.cn/mw600/c2cc11cbly1g51q0c7l8ij20u017vmzx.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300226">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300226" data-type="pos">OO</a> [<span>191</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300226" data-type="neg">XX</a> [<span>45</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300226"> 吐槽 [9] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4300044">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：67b2e69e283ed145e09ba1315e5ba5a39aa51ce0" class="">风把云吹开</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300044&quot;&gt;风把云吹开&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300044">4300044</a></span><p>去打工的厂的饭堂打饭，因为去迟了，只有最后一勺肉，厨娘还犹豫要不要全给我，经得她老公同意后把它们都给我了。我看见她还舀起盆里仅剩的两颗萝卜干，以为她要给我，把碗伸过去，谁知她不给(*￣m￣)真抠门<br />
+<a href="//ws2.sinaimg.cn/large/0061r09nly1g51jj5qy0jj31201eoe81.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws2.sinaimg.cn/mw600/0061r09nly1g51jj5qy0jj31201eoe81.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300044">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300044" data-type="pos">OO</a> [<span>139</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300044" data-type="neg">XX</a> [<span>59</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300044"> 吐槽 [16] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4300009">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：027c3509ae0d018100179b633a5e8f281f4c17db" class="">马耳东风</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4300009&quot;&gt;马耳东风&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4300009">4300009</a></span><p><a href="//wx4.sinaimg.cn/large/005OVAe0ly1g51hs0lrnnj31hf0u0u0x.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/005OVAe0ly1g51hs0lrnnj31hf0u0u0x.jpg" referrerPolicy="no-referrer" /><br />
+<a href="//wx4.sinaimg.cn/large/005OVAe0ly1g51hshu0ewj31hf0u01ky.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/005OVAe0ly1g51hshu0ewj31hf0u01ky.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4300009">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4300009" data-type="pos">OO</a> [<span>31</span>]
+</span>
+<span class="tucao-unlike-container">
+
+6d0
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4300009" data-type="neg">XX</a> [<span>13</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4300009"> 吐槽 [3] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299827">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：f274d7954c7e3f3f8e041842c51e4745d5935c57" class="orange-name">呵呵</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299827&quot;&gt;呵呵&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299827">4299827</a></span><p><a href="//wx4.sinaimg.cn/large/006tWtYrly1g50nj43ln1j30go0m80w3.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/006tWtYrly1g50nj43ln1j30go0m80w3.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299827">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299827" data-type="pos">OO</a> [<span>73</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299827" data-type="neg">XX</a> [<span>57</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299827"> 吐槽 [6] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299772">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：0f27e2c610c09d6405
+2475
+bbf81e2372a3ec4463f03f" class="">索尼大法好</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299772&quot;&gt;索尼大法好&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299772">4299772</a></span><p><a href="//wx3.sinaimg.cn/large/6d51471fgy1g50zq41c1nj20qw0zvhay.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx3.sinaimg.cn/mw600/6d51471fgy1g50zq41c1nj20qw0zvhay.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299772">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299772" data-type="pos">OO</a> [<span>44</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299772" data-type="neg">XX</a> [<span>8</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299772"> 吐槽 [1] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299575">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：7466c5051ca7e580fea96e76af7931c9682d8c6c" class="orange-name">游客</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299575&quot;&gt;游客&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299575">4299575</a></span><p><a href="//ws2.sinaimg.cn/large/6a84d8d8gy1g50pwnpvr5j20lc0sg15y.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws2.sinaimg.cn/mw600/6a84d8d8gy1g50pwnpvr5j20lc0sg15y.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299575">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299575" data-type="pos">OO</a> [<span>22</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299575" data-type="neg">XX</a> [<span>214</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299575"> 吐槽 [1] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299572">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：e08becd7dd4d2f64d647d9e27b80e4a75b341717" class="">潘无道</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299572&quot;&gt;潘无道&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299572">4299572</a></span><p><a href="//wx4.sinaimg.cn/large/0072vvHCgy1fr1veubm81j30hx0grjsm.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/0072vvHCgy1fr1veubm81j30hx0grjsm.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299572">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299572" data-type="pos">OO</a> [<span>68</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299572" data-type="neg">XX</a> [<span>25</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299572"> 吐槽 [8] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299494">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：1ed53b28e3bd506f0cd81b05fe57b86e04eb59c1" class="">巴扎嘿</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299494&quot;&gt;巴扎嘿&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299494">4299494</a></span><p>？？？<br />
+<a href="//wx4.sinaimg.cn/large/005zD0bVly1g50mo1t7erj30u01o0q89.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/005zD0bVly1g50mo1t7erj30u01o0q89.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299494">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299494" data-type="pos">OO</a> [<span>74</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299494" data-type="neg">XX</a> [<span>96</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299494"> 吐槽 [6] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299434">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：a82d04fde06e64d3638e8bb17263af788bd574f4" class="">jerryw</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299434&quot;&gt;jerryw&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299434">4299434</a></span><p>电影票买错日期，送给成都的蛋友了。。。<br />
+<a href="//wx4.sinaimg.cn/large/007TLU9xgy1g50kqhzqnej30yi0qzgp4.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/007TLU9xgy1g50kqhzqnej30yi0qzgp4.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299434">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299434" data-type="pos">OO</a> [<span>54</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299434" data-type="neg">XX</a> [<span>32</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299434"> 吐槽 [9] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299422">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：8b990054f6947b923f2730f50afca58f16894db8" class="">风疯疯</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299422&quot;&gt;风疯疯&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299422">4299422</a></span><p>终于可以发了<br />
+<a href="//wx4.sinaimg.cn/large/007QK42Vgy1g4oblastfdj31hc0u0ae6.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/007QK42Vgy1g4oblastfdj31hc0u0ae6.jpg" referrerPolicy="no-referrer" /><br />
+<a href="//wx3.sinaimg.cn/large/007QK42Vgy1g4oblb6i2ej30u015ydpi.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx3.sinaimg.cn/mw600/007QK42Vgy1g4oblb6i2ej30u015ydpi.jpg" referrerPolicy="no-referrer" /><br />
+<a href="//wx4.sinaimg.cn/large/007QK42Vgy1g4oblbpw7nj31n918gnbz.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/007QK42Vgy1g4oblbpw7nj31n918gnbz.jpg" referrerPolicy="no-referrer" /><br />
+<a href="//wx1.sinaimg.cn/large/007QK42Vgy1g4oblcb5vhj318g1n9ar6.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx1.sinaimg.cn/mw600/007QK42Vgy1g4oblcb5vhj318g1n9ar6.jpg" referrerPolicy="no-referrer" /><br />
+<a href="//wx1.sinaimg.cn/large/007QK42Vgy1g4obkflrdwj31n918gjxz.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx1.sinaimg.cn/mw600/007QK42Vgy1g4obkflrdwj31n918gjxz.jpg" referrerPolicy="no-referrer" /><br />
+<a href="//wx4.sinaimg.cn/large/007QK42Vgy1g4obkg78mnj31n918gaeh.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/007QK42Vgy1g4obkg78mnj31n918gaeh.jpg" referrerPolicy="no-referrer" /><br />
+<a href="//wx3.sinaimg.cn/large/007QK42Vgy1g4obkgt5l6j31da0rqwhq.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx3.sinaimg.cn/mw600/007QK42Vgy1g4obkgt5l6j31da0rqwhq.jpg" referrerPolicy="no-referrer" /><br />
+<a href="//wx2.sinaimg.cn/large/007QK42Vgy1g4obkhbwbqj31hc
+362
+0u0n1o.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx2.sinaimg.cn/mw600/007QK42Vgy1g4obkhbwbqj31hc0u0n1o.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299422">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299422" data-type="pos">OO</a> [<span>48</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299422" data-type="neg">XX</a> [<span>14</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299422"> 吐槽 [0] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299358">
+<div>
+<d
+25b3
+iv class="row">
+<div class="author"><strong title="防伪码：08b787cf3c3cd7cea5f6889317cb6259267b7efd" class="">阿菊</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299358&quot;&gt;阿菊&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299358">4299358</a></span><p><a href="//wx4.sinaimg.cn/large/006hxwnRly1g50iqjyt3aj3170170kjl.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx4.sinaimg.cn/mw600/006hxwnRly1g50iqjyt3aj3170170kjl.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299358">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299358" data-type="pos">OO</a> [<span>24</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299358" data-type="neg">XX</a> [<span>26</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299358"> 吐槽 [0] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299303">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：1f30de67e5bb2aaa36599f58a764fb0ce91a62ed" class="">雒晏</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299303&quot;&gt;雒晏&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299303">4299303</a></span><p><a href="//wx1.sinaimg.cn/large/96e88266ly1g50gj8c545j20u01hc4lt.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx1.sinaimg.cn/mw600/96e88266ly1g50gj8c545j20u01hc4lt.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299303">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299303" data-type="pos">OO</a> [<span>15</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299303" data-type="neg">XX</a> [<span>89</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299303"> 吐槽 [3] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299252">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：a1a460a8ed81211bfeb2a56bff8a7f59611ea1aa" class="">Nick</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299252&quot;&gt;Nick&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299252">4299252</a></span><p>求一张旧图 港产林青霞 张曼玉那个年代那些女星的一张集合动图。<br />
+<a href="//ws3.sinaimg.cn/large/90b45e31gy1g50etioeeyj21k01607wi.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws3.sinaimg.cn/mw600/90b45e31gy1g50etioeeyj21k01607wi.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299252">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299252" data-type="pos">OO</a> [<span>16</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299252" data-type="neg">XX</a> [<span>38</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299252"> 吐槽 [10] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299190">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：e0db934d6521e286ae752281f56fe63be09f3541" class="orange-name">风洛七七</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299190&quot;&gt;风洛七七&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299190">4299190</a></span><p>我一直很喜欢天桥上面的感觉，另外请问怎么一次发多张图<br />
+<a href="//ws1.sinaimg.cn/large/007d2Ghkgy1g50d6zz4q0j315o1jku0x.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws1.sinaimg.cn/mw600/007d2Ghkgy1g50d6zz4q0j315o1jku0x.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299190">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299190" data-type="pos">OO</a> [<span>9</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299190" data-type="neg">XX</a> [<span>45</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299190"> 吐槽 [8] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299176">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：a2a5ccc779b995f040cbceee66f32d452c9b2d54" class="">AwesomeXhay</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299176&quot;&gt;AwesomeXhay&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299176">4299176</a></span><p><a href="//ws3.sinaimg.cn/large/60892ebegy1g50ctrcsl6j21601k04qq.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//ws3.sinaimg.cn/mw600/60892ebegy1g50ctrcsl6j21601k04qq.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299176">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299176" data-type="pos">OO</a> [<span>35</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299176" data-type="neg">XX</a> [<span>7</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299176"> 吐槽 [2] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299093">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：5b0a0b64fe6a5e16ca9d649e118b67cd1ffaef4c" class="">太疯癫</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299093&quot;&gt;太疯癫&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299093">4299093</a></span><p><a href="//wx1.sinaimg.cn/large/005GvL2mly1g507dm79ibj30sg0zktkw.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx1.sinaimg.cn/mw600/005GvL2mly1g507dm79ibj30sg0zktkw.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299093">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299093" data-type="pos">OO</a> [<span>42</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike" data-id="4299093" data-type="neg">XX</a> [<span>64</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299093"> 吐槽 [9] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li id="comment-4299063">
+<div>
+<div class="row">
+<div class="author"><strong title="防伪码：cfad50e233c4745f98870fe1da1d8ab7c6c5e8fc" class="">linfzhou159</strong> <br>
+<small><a href="#footer" title="@回复" onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;//jandan.net/ooxx/page-2#comment-4299063&quot;&gt;linfzhou159&lt;/a&gt;: &#39;">@1 week ago</a></span></small>
+</div>
+<div class="text"><span class="righttext"><a href="/t/4299063">4299063</a></span><p>摸鱼模式<br />
+<a href="//wx2.sinaimg.cn/large/6368bc8bly1g50agm9ys8j20dl0470t0.jpg" target="_blank" class="view_img_link" referrerPolicy="no-referrer">[查看原图]</a><br /><img src="//wx2.sinaimg.cn/mw600/6368bc8bly1g50agm9ys8j20dl0470t0.jpg" referrerPolicy="no-referrer" /></p>
+</div>
+<div class="jandan-vote">
+<span class="comment-report-c">
+<a title="举报" href="javascript:;" class="comment-report" data-id="4299063">[举报]</a>
+</span>
+<span class="tucao-like-container">
+<a title="圈圈/支持" href="javascript:;" class="comment-like like" data-id="4299063" data-type="pos">OO</a> [<span>145</span>]
+</span>
+<span class="tucao-unlike-container">
+<a title="叉叉/反对" href="javascript:;" class="comment-unlike unlike"
+394f
+ data-id="4299063" data-type="neg">XX</a> [<span>5</span>]
+<a href="javascript:;" class="tucao-btn" data-id="4299063"> 吐槽 [3] </a>
+</span>
+</div>
+</div>
+</div>
+</li>
+</ol>
+<div class="comments">
+<div class="cp-pagenavi">
+<a title="Newer Comments" href="//jandan.net/ooxx/page-3#comments" class="next-comment-page">上一页</a>
+<a href="//jandan.net/ooxx/page-4#comments">
+4 </a>
+<a href="//jandan.net/ooxx/page-3#comments">
+3 </a>
+<span class="current-comment-page">[2]</span>
+<a href="//jandan.net/ooxx/page-1#comments">
+1 </a>
+<a title="Older Comments" href="//jandan.net/ooxx/page-1#comments" class="previous-comment-page">下一页</a>
+</div>
+</div>
+<span class="break"></span>
+<div class="comments">
+<h3>
+<p id="respond">发表评论</p>
+</h3>
+</div>
+<form method="post" id="commentform">
+<div class="hide-input">
+<p><label for="author">称呼: </label><input type="text" name="author" id="author" value="" title="常用的网络 ID，必填项" size="22" tabindex="1"/></p>
+<p><label for="email">邮箱: </label><input type="text" name="email" id="email" value="" title="真实 Email 地址，必填项" size="22" tabindex="2"/></p>
+</div>
+<p><textarea name="comment" id="comment" rows="10" tabindex="4" onkeydown="if(event.ctrlKey&&event.keyCode==13){document.getElementById('submit').click();return false};"></textarea>
+</p>
+<p><input name="submit" id="submit" type="submit" tabindex="5" value="点击发布 / Ctrl+Enter"/>
+<input type="hidden" name="comment_post_ID" id="comment_post_ID" value="21183"/>
+<br/></p>
+</form>
+</div>
+<div id="tucao-gg">
+<div style="padding:20px 0 10px 125px;border-top:1px solid #EEE;border-bottom:1px solid #EEE;"><div style="width:336px;">
+<font color="#AAA">[ 广告 ]</font><br>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5673546663729848";
+/* 煎蛋网-首页-336x280 */
+google_ad_slot = "1965170595/jandannet-home-336x280";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div></div>
+</div>
+<script>
+    (function($) {
+        var prev = $('<span id="nav_prev"><a href="javascript:;" title="上一页">&#8250;</a></span>');
+        var next = $('<span id="nav_next"><a href="javascript:;" title="下一页">&#8249;</a></span>');
+
+        $('#body').append(prev).append(next);
+        $().ready(function() {
+            var prev_link = $('.next-comment-page');
+            if (prev_link.length > 0) {
+                next.show();
+                next.find('a').attr('href', prev_link.attr('href'));
+            } else {
+                next.hide();
+            }
+            
+            var next_link = $('.previous-comment-page');
+            if (next_link.length > 0) {
+                prev.show();
+                prev.find('a').attr('href', next_link.attr('href'));
+            } else {
+                prev.hide();
+            }
+        });
+    })($);
+</script>
+<script>
+	var gif_click_load = getCookie('gif-click-load');
+	var bad_click_load = getCookie('bad-click-load');
+	var nsfw_click_load = getCookie('nsfw-click-load');
+	var gif_on = (gif_click_load == 'on' || gif_click_load == null) ? true : false;
+	var nsfw_on = (nsfw_click_load == 'on' || nsfw_click_load == null) ? true : false;
+	var bad_on = (bad_click_load == 'on' || bad_click_load == null) ? true : false;
+
+
+	$('.switch').removeClass('switch-current');
+	var btn_id = 'gif-click-load-off';
+	if (gif_on) {
+		btn_id = 'gif-click-load-on';
+	}
+	$('#'+btn_id).addClass('switch-current');
+
+	btn_id = 'nsfw-click-load-off';
+	if (nsfw_on) {
+		btn_id = 'nsfw-click-load-on';
+	}
+	$('#'+btn_id).addClass('switch-current');
+
+
+	btn_id = 'bad-click-load-off';
+	if (bad_on) {
+		btn_id = 'bad-click-load-on';
+	}
+	$('#'+btn_id).addClass('switch-current');
+
+
+
+	$('#gif-click-load-on').click(function() {
+
+		if ($(this).hasClass('switch-current'))
+			return;
+		setCookie('gif-click-load', 'on', 30);
+		$('#gif-click-load-off').removeClass('switch-current');
+		$(this).addClass('switch-current');
+		location.reload();
+	});
+
+	$('#gif-click-load-off').click(function() {
+		if ($(this).hasClass('switch-current'))
+			return;
+		setCookie('gif-click-load', 'off', 30);
+		$('#gif-click-load-on').removeClass('switch-current');
+		$(this).addClass('switch-current');
+		location.reload();
+	});
+
+	$('#nsfw-click-load-on').click(function() {
+		if ($(this).hasClass('switch-current'))
+			return;
+		setCookie('nsfw-click-load', 'on', 30);
+		$('#nsfw-click-load-off').removeClass('switch-current');
+		$(this).addClass('switch-current');
+		location.reload();
+	});
+
+	$('#nsfw-click-load-off').click(function() {
+		if ($(this).hasClass('switch-current'))
+			return;
+		setCookie('nsfw-click-load', 'off', 30);
+		$('#nsfw-click-load-on').removeClass('switch-current');
+		$(this).addClass('switch-current');
+		location.reload();
+	});
+
+	$('#bad-click-load-on').click(function() {
+		if ($(this).hasClass('switch-current'))
+			return;
+		setCookie('bad-click-load', 'on', 30);
+		$('#bad-click-load-off').removeClass('switch-current');
+		$(this).addClass('switch-current');
+		location.reload();
+	});
+
+	$('#bad-click-load-off').click(function() {
+		if ($(this).hasClass('switch-current'))
+			return;
+		setCookie('bad-click-load', 'off', 30);
+		$('#bad-click-load-on').removeClass('switch-current');
+		$(this).addClass('switch-current');
+		location.reload();
+	});
+	$(".commentlist li").each(function () {
+		var e = $(this);
+		var is_bad = false;
+		if (bad_on) {
+			var oo = parseInt(e.find('.comment-like').next('span').text());
+			var xx = parseInt(e.find('.comment-unlike').next('span').text());
+			// oo xx 总和超过50个，且xx占多数
+			if ( (oo + xx) >= 50 && (oo / xx) < 0.618 ) {
+				is_bad = true;
+				var r = e.find("p").not('.bad_content');
+				r.hide();
+				e.find('.righttext').after('<p class="bad_content" style="color:#ddd">因不受欢迎已被超载鸡自动隐藏.  <a href="javascript:;" class="view_bad">[手贱一回]</a></p>');
+				e.find(".view_bad").click(function () {
+					if (this.innerHTML == '[手贱一回]' || this.innerHTML == '[再手贱一回]') {
+						r.show();
+						if (this.innerHTML == '[手贱一回]') {
+							r.find('.gif-mask').remove();
+							r.find('img').each(function() {
+								var org_src = this.getAttribute('org_src');
+								if (org_src)
+									this.src = org_src;
+							});
+						}
+						this.innerHTML = '[真不该手贱]';
+					} else {
+						r.hide();
+						this.innerHTML = '[再手贱一回]';
+					}
+				});
+			}
+		}
+
+		if ( ! is_bad && nsfw_on) {
+			var p = e.find("p").not('.bad_content');
+			if (p.length == 0) // ad line
+				return;
+			var content = p.html();
+			if (content.indexOf('NSFW') > -1) {
+				p.hide();
+				e.find('.righttext').after('<p class="nsfw_content" style="color:#ff6600">此图被标记为<b>NSFW</b>被超载鸡自动隐藏.  <a href="javascript:;" class="view_nsfw">[旁边没人]</a></p>');
+				e.find(".view_nsfw").click(function () {
+					if (this.innerHTML == '[旁边没人]' || this.innerHTML == '[旁边还是没人]') {
+						p.show();
+						p.find('.gif-mask').remove();
+						if (this.innerHTML == '[旁边没人]') {
+							p.find('img').each(function() {
+								var org_src = this.getAttribute('org_src');
+								if (org_src)
+									this.src = org_src;
+							});
+						}
+						this.innerHTML = '[看完了，擦键盘]';
+					} else {
+						p.hide();
+						this.innerHTML = '[旁边还是没人]';
+					}
+				});
+			}
+		}
+
+	});
+</script> <script>
+	$('.commentlist li p img').each(function (imgIndex) {
+		var max_width = $(this).parent().parent().width();
+		$(this).css('max-width', max_width);
+		$(this).css('max-height', '750px').click(function () {
+			var $this = $(this);
+			if ($this.css('max-height') == 'none') {
+				var max_width = $(this).parent().parent().width();
+				$this.css('max-width', max_width);
+				$this.css('max-height', '750px');
+			} else {
+				if ($this.parent().hasClass('acv_comment'))
+					$this.css('max-width', 'none');
+				$this.css('max-height', 'none');
+			}
+			$("html,body").animate(
+				{
+					scrollTop: $this.offset().top - 40
+				},
+				325
+			);
+		});
+	});
+</script>
+<script>
+	$("img.lazy").each(function () {
+		$(this).lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script> <script>
+    $().ready(function () {
+        $comments = $('#comments-title');
+        $cancel = $('#cancel-comment-reply-link');
+        cancel_text = $cancel.text();
+        $submit = $('#commentform #submit');
+        $submit.attr('disabled', false);
+        $('#comment').after('<div id="loading"class="loading"></div><div id="error">#</div>');
+        $('#loading').hide();
+        $('#error').hide();
+        function nl2br(str) {
+            var breakTag = '<br>';
+            return (str + '').replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, '$1' + breakTag + '$2');
+        }
+        $('#commentform').submit(function () {
+            $('#loading').slideDown();
+            $submit.attr('disabled', false);
+            $.ajax({
+                url: '/jandan-comment.php',
+                data: $(this).serialize(),
+                type: $(this).attr('method'),
+                error: function (request) {
+                    $('#loading').slideUp();
+                    var errorhtml = request.responseText;
+                    errorhtml = errorhtml.replace(/WordPress &rsaquo; Error/i, "");
+                    $('#error').slideDown().html('<p style="color:red;"> ' + errorhtml + '</p> ');
+                    setTimeout(function () {
+                        $submit.attr('disabled', false).fadeTo('slow', 1);
+                        $('#error').slideUp();
+                    }, 5000);
+                },
+                success: function (comment_id) {
+                    $('#loading').hide();
+
+                    var new_row = [];
+                    new_row.push('<li id="comment-#id#" style="display:none;">');
+                    new_row.push('<div>');
+                    new_row.push('<div class="row">');
+                    new_row.push('<div class="author"><strong>'+ $('#author').val() +'</strong>');
+                    new_row.push('<br>');
+                    new_row.push('<small>');
+                    new_row.push('<a href="javascript:;" title="@1 min ago" >@1 min ago</a>');
+                    new_row.push('</small>');
+                    new_row.push('</div>');
+                    new_row.push('<div class="text"><p>'+ nl2br($('#comment').val()) +'</p>');
+                    new_row.push('<div class="vote" id="vote-#id#">');
+                    new_row.push('<span id="acv_stat_"></span>');
+                    new_row.push('<a title="圈圈/支持" class="acvclick acv4" id="vote4-#id#" href="javascript:acv_vote(#id#,1);">oo</a> [<span id="cos_support-#id#">0</span>]');
+                    new_row.push('<a title="叉叉/反对" class="acvclick acva" id="votea-#id#" href="javascript:acv_vote(#id#,0);">xx</a> [<span id="cos_unsupport-#id#">0</span>]</div>');
+                    new_row.push('</div>');
+                    new_row.push('</div>');
+                    new_row.push('<span class="break"></span></div>');
+                    new_row.push('</li>');
+
+                    var new_row_html = new_row.join("\n").replace(/#id#/g, comment_id);
+                    $('.commentlist').append(new_row_html);
+
+                    $('textarea').each(function () {
+                        this.value = ''
+                    });
+
+                    $('#comment-' + comment_id).fadeIn();
+                    $body = (window.opera) ? (document.compatMode == "CSS1Compat" ? $('html') : $('body')) : $('html,body');
+                    $body.animate({
+                        scrollTop: $('#comment-' + comment_id).offset().top - 200
+                    }, 900);
+                }
+            });
+            return false
+        });
+
+        $('textarea').keypress(function (e) {
+            if (e.ctrlKey && e.which == 13 || e.which == 10) {
+                $(this).parent().submit()
+            }
+        });
+
+        // 显示＠信息
+        $('.commentlist li p a').each(function () {
+            var $this = $(this);
+            if ($this.attr('href').match(/^#comment-/)) {
+                $this.addClass('atreply').hover(function (e) {
+                    $($this.attr('href')).clone().hide().insertAfter($this.parents('li')).attr('id', '').addClass('tip').fadeIn(200)
+                }, function () {
+                    $('.tip').fadeOut(400, function () {
+                        $(this).remove()
+                    })
+                })
+            }
+        });
+
+        var comment_author = getCookie('comment_author_'+ $JANDAN.COOKIE_HASH);
+        var comment_email = getCookie('comment_author_email_'+ $JANDAN.COOKIE_HASH);
+        if (comment_author) {
+            var author = htmlEscape(decodeURIComponent(comment_author));
+            $('#commentform #author').val(author);
+            var edit = $('<a href="javascript:;">EDIT</a>').click(function() {
+                $('.hide-input').toggle();
+            });
+            $('#respond').html(author + ', 想说点什么? &nbsp;&nbsp;').append(edit);
+            $('.hide-input').hide();
+        }
+        if (comment_email) {
+            $('#commentform #email').val(decodeURIComponent(comment_email));
+        }
+    });
+</script>
+</div>
+<div id="sidebar">
+<form action="https://www.so.com/s" target="_blank" id="cse-search-box">
+<input type="text" autocomplete="off" name="q" id="s" value="" placeholder="搜索"></input>
+<button type="submit" id="so360_submit">Search</button>
+<input type="hidden" name="ie" value="utf8">
+<input type="hidden" name="src" value="zz_jandan.net">
+<input type="hidden" name="site" value="jandan.net">
+<input type="hidden" name="rg" value="1">
+</form>
+<ul>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5673546663729848";
+/* 煎蛋网-全站侧栏-300x250 */
+google_ad_slot = "1965170595/jandannet-sidebar-300x250";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </ul>
+<ul>
+<a href="//recreate.games/careers-chinese/" target="_blank" rel="external nofollow"><img src="//cdn.jandan.net/static/ss/recreate-games.gif" height="75" width="300" border="0"></a>
+<a href="//item.taobao.com/item.htm?id=596228728768" target="_blank" rel="external nofollow"><img src="//cdn.jandan.net/static/ss/fangongku.png" height="88" width="300" border="0"></a>
+</ul>
+<ul>
+<strong>公告</strong><br>
+1-iOS用户发图：
+a9a
+添加<a href="https://www.icloud.com/shortcuts/dbf64f3f05eb4c4198cb94af8d264591" target=_blank><strong>煎蛋发图姬</strong></a>到快捷指令；<br>微信小程序<strong>煎了个蛋</strong>也可以发图<br>
+2- 新版吐槽已上线，采用精选留言方式审核；<br>
+3- 如有违规内容请直接站内举报，或邮件联系 sein@jandan.com。
+</ul>
+<div class="hot-list">
+<ul class="hot-tabs">
+<li id="tab-hotposts" class="current">24H热文</li>
+<li id="tab-hotlike">三日最赞</li>
+<li id="tab-hotcomments">一周话题</li>
+<div class="break"></div>
+</ul>
+<div class="host-list-split"></div>
+<div class="hot-list-item hot-list-item-current" id="list-hotposts">
+<ol>
+<script>
+		document.write(decodeURIComponent('%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F23%2Fall-primates.html%22%20title%3D%222905%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E7%81%B5%E9%95%BF%E7%B1%BB%E9%83%BD%E8%BF%9B%E5%8C%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%B1%BB%EF%BC%9F%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F24%2Fsteepest-street-2.html%22%20title%3D%222763%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E%E3%80%8C%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E9%99%A1%E7%9A%84%E8%A1%97%E3%80%8D%E5%B7%B2%E5%88%9B%E4%B8%8B%E6%96%B0%E8%AE%B0%E5%BD%95%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F23%2Fburn-calories-4.html%22%20title%3D%222736%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E20%E7%A7%8D%E5%A5%87%E5%A6%99%E7%9A%84%E7%87%83%E8%84%82%E6%96%B9%E6%B3%95%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F24%2Fchernobyl-exclusion.html%22%20title%3D%222379%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E5%BD%93%E6%97%B6%E6%83%85%E5%86%B5%E7%A9%B6%E7%AB%9F%E5%A6%82%E4%BD%95%EF%BC%9F%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F23%2Fmaking-choices.html%22%20title%3D%221827%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9F%90%E4%BA%9B%E4%BA%BA%E4%BC%9A%E6%9C%89%E9%80%89%E6%8B%A9%E5%9B%B0%E9%9A%BE%E7%97%87%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F24%2Fchess-player.html%22%20title%3D%221813%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E%E8%B7%91%E5%88%B0%E5%8D%AB%E7%94%9F%E9%97%B4%E7%94%A8%E6%89%8B%E6%9C%BA%E4%BD%9C%E5%BC%8A%E7%9A%84%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E5%A4%A7%E5%B8%88%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F24%2Fhuge-void-edge.html%22%20title%3D%221500%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E%E9%93%B6%E6%B2%B3%E7%B3%BB%E8%BE%B9%E7%BC%98%E7%9A%84%E5%B7%A8%E5%A4%A7%E7%A9%BA%E6%B4%9E%
+27c0
+3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F24%2Flondons-sparrows.html%22%20title%3D%221465%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E%E4%BC%A6%E6%95%A6%E7%9A%84%E9%BA%BB%E9%9B%80%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%EF%BC%9F%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F23%2Fprocrastination-gene.html%22%20title%3D%221459%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E%E8%83%BD%E6%8A%8A%E6%8B%96%E5%BB%B6%E7%97%87%E7%9A%84%E9%94%85%E7%94%A9%E7%BB%99%E5%9F%BA%E5%9B%A0%E5%90%97%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F24%2Fmoon-landing-facts-2.html%22%20title%3D%22606%E6%AC%A1%E6%B5%8F%E8%A7%88%22%3E%E9%98%BF%E6%B3%A2%E7%BD%9711%E5%8F%B7%E7%9A%8450%E4%B8%AA%E5%B0%8F%E7%9F%A5%E8%AF%86%28%E5%AE%8C%29%3C%2Fa%3E%3C%2Fli%3E'));
+	</script>
+</ol>
+</div>
+<div class="hot-list-item" id="list-hotlike">
+<ol>
+<script>
+		document.write(decodeURIComponent('%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F22%2Fhahaha-230.html%22%3E%E6%97%A0%E8%81%8A%E5%9B%BE%E5%A4%A7%E5%90%90%E6%A7%BD-20190722%3C%2Fa%3E%20%20100%E8%B5%9E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F22%2Fpast-used-to.html%22%3E%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%EF%BC%9A%E8%84%8F%E4%B9%B1%E5%B7%AE%E7%9A%84%E8%BF%87%E5%8E%BB%3C%2Fa%3E%20%2024%E8%B5%9E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F23%2Ffml-1239.html%22%3E%E5%8F%91%E9%9C%89%E5%95%A6%EF%BC%9A%E6%88%91%E5%90%91%E6%88%91%E5%A6%88%E5%AF%BB%E6%B1%82%E5%AE%89%E6%85%B0%3C%2Fa%3E%20%2022%E8%B5%9E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F23%2Fwtffunfact.html%22%3E%E5%8D%81%E4%B8%87%E4%B8%AA%E5%86%B7%E7%9F%A5%E8%AF%86%28%E4%BA%94%E5%8D%81%E4%B8%80%29%5B%E7%AC%AC%E4%BA%8C%E5%AD%A3%5D%3C%2Fa%3E%20%2019%E8%B5%9E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F22%2Forgan-donation-2.html%22%3E%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%B0%86%E5%AE%9E%E8%A1%8C%E5%99%A8%E5%AE%98%E6%8D%90%E7%8C%AE%E9%80%89%E6%8B%A9%E9%80%80%E5%87%BA%E5%88%B6%3C%2Fa%3E%20%2012%E8%B5%9E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F23%2Fengelhardt-coconut.html%22%3E%E6%A4%B0%E5%AD%90%E6%95%99%E4%B8%BB%E4%BC%A0%E5%A5%87%E6%95%85%E4%BA%8B%3C%2Fa%3E%20%2011%E8%B5%9E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F21%2Fbirth-control-advice.html%22%3E%E7%BD%91%E4%BC%A0%E7%9A%84%E9%81%BF%E5%AD%95%E6%96%B9%E6%B3%95%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F%3C%2Fa%3E%20%2010%E8%B5%9E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F22%2Finto-area-51.html%22%3E%E5%A6%82%E6%9E%9C%E4%BD%A0%E9%97%AF%E5%85%A551%E5%8C%BA%EF%BC%8C%E4%BD%A0%E7%9A%84%E4%B8%8B%E5%9C%BA%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%3C%2Fa%3E%20%209%E8%B5%9E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F22%2Fdark-matter-gunshot.html%22%3E%E6%9F%90%E7%B1%BB%E6%9A%97%E7%89%A9%E8%B4%A8%E7%A9%BF%E8%BF%87%E4%BA%BA%E4%BD%93%E6%97%B6%E4%BC%9A%E9%80%A0%E6%88%90%E7%B1%BB%E4%BC%BC%E6%9E%AA%E5%87%BB%E7%9A%84%E6%95%88%E6%9E%9C%3C%2Fa%3E%20%208%E8%B5%9E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F22%2Fmoon-landing-3.html%22%3E%E9%98%BF%E6%B3%A2%E7%BD%97%E7%99%BB%E6%9C%88%E8%AE%A1%E5%88%92%E6%9C%89%E8%B6%A3%E7%9A%84%E5%BD%95%E9%9F%B3%E7%89%87%E6%AE%B5%3C%2Fa%3E%20%207%E8%B5%9E%3C%2Fli%3E'));
+	</script>
+</ol>
+</div>
+<div class="hot-list-item" id="list-hotcomments">
+<ol>
+<script>
+		document.write(decodeURIComponent('%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F18%2Fcharacters-to-marry.html%22%3E%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%80%A7%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%9C%80%E4%B8%8D%E6%83%B3%E5%AB%81%E7%9A%84%E5%8A%A8%E7%94%BB%E4%BA%BA%E7%89%A9%3C%2Fa%3E%20%2048%E8%AF%84%E8%AE%BA%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F20%2Fbent-arms.html%22%3E%E4%BA%BA%E7%9A%84%E6%89%8B%E8%87%82%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E8%B5%B0%E8%B7%AF%E6%97%B6%E4%BC%B8%E7%9B%B4%EF%BC%8C%E5%9C%A8%E8%B7%91%E6%AD%A5%E6%97%B6%E5%BC%AF%E6%9B%B2%EF%BC%9F%3C%2Fa%3E%20%2046%E8%AF%84%E8%AE%BA%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F19%2Fserves-foreigners.html%22%3E%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%EF%BC%9A%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A4%AA%E6%97%A0%E7%A4%BC%EF%BC%8C%E4%BB%8A%E5%90%8E%E5%8F%AA%E6%8B%9B%E5%BE%85%E5%A4%96%E5%9B%BD%E4%BA%BA%3C%2Fa%3E%20%2045%E8%AF%84%E8%AE%BA%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F17%2Fhahaha-228.html%22%3E%E6%97%A0%E8%81%8A%E5%9B%BE%E5%A4%A7%E5%90%90%E6%A7%BD-20190717%3C%2Fa%3E%20%2038%E8%AF%84%E8%AE%BA%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F22%2Fhahaha-230.html%22%3E%E6%97%A0%E8%81%8A%E5%9B%BE%E5%A4%A7%E5%90%90%E6%A7%BD-20190722%3C%2Fa%3E%20%2037%E8%AF%84%E8%AE%BA%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F18%2Fdeadly-octopus.html%22%3E%E4%BD%9C%E6%AD%BB%E8%8B%B1%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9A%E5%9C%A8%E6%89%8B%E4%B8%8A%E7%8E%A9%E5%BC%84%E8%A2%AB%E6%BF%80%E6%80%92%E7%9A%84%E8%93%9D%E7%8E%AF%E7%AB%A0%E9%B1%BC%3C%2Fa%3E%20%2034%E8%AF%84%E8%AE%BA%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F19%2Fcarbon-dioxide-4.html%22%3E%E5%B0%91%E7%9C%8B%E7%89%87%EF%BC%8C%E5%87%8F%E7%BC%93%E5%85%A8%E7%90%83%E5%8F%98%E6%9A%96%3C%2Fa%3E%20%2034%E8%AF%84%E8%AE%BA%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F23%2Fall-primates.html%22%3E%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E7%81%B5%E9%95%BF%E7%B1%BB%E9%83%BD%E8%BF%9B%E5%8C%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%B1%BB%EF%BC%9F%3C%2Fa%3E%20%2033%E8%AF%84%E8%AE%BA%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F21%2Frefuses-to-pay.html%22%3E%E4%BB%A5%E4%B8%8A%E5%B8%9D%E4%B9%8B%E5%90%8D%E9%80%83%E7%A8%8E%E8%80%85%20VS%20%E6%9C%BA%E6%99%BA%E7%9A%84%E6%B3%95%E5%AE%98%3C%2Fa%3E%20%2033%E8%AF%84%E8%AE%BA%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22http%3A%2F%2Fjandan.net%2F2019%2F07%2F23%2Fwtffunfact.html%22%3E%E5%8D%81%E4%B8%87%E4%B8%AA%E5%86%B7%E7%9F%A5%E8%AF%86%28%E4%BA%94%E5%8D%81%E4%B8%80%29%5B%E7%AC%AC%E4%BA%8C%E5%AD%A3%5D%3C%2Fa%3E%20%2031%E8%AF%84%E8%AE%BA%3C%2Fli%3E'));
+	</script>
+</ol>
+</div>
+</div>
+<div id="box">
+<div id="float" class="box">
+<ul>
+<script type="text/javascript" src="//a3.jandan.net/common/js/openjs/ml8rwn.js?niho=kjke"></script> </ul>
+<ul>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5673546663729848";
+/* 煎蛋网-全站侧栏-300x250 */
+google_ad_slot = "1965170595/jandannet-sidebar-300x250";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </ul>
+</div>
+</div>
+<script>
+    (function($) {
+        function add_show_more() {
+            var $this = $(this);
+            var pHeight = 0;
+            $this.find('p').each(function () {
+                pHeight += $(this).height();
+            });
+            if (pHeight > $this.height()) {
+                var show_more = $this.find('.show_more');
+                if (show_more.length == 0) {
+                    $this.append('<div class="show_more"> &DownTeeArrow;  展开</div>')
+                }
+            }
+        }
+
+        $('.hot-tabs li').click(function () {
+            var tab = this.id.split('-')[1];
+            var parent = $(this).parent();
+            parent.find('li').removeClass('current');
+            parent.parent().find('.hot-list-item').removeClass('hot-list-item-current');
+            $(this).addClass('current');
+            var list_tab = $('#list-' + tab);
+            list_tab.addClass('hot-list-item-current');
+            list_tab.find('.acv_comment').each(add_show_more);
+            list_tab.find('.gif-mask').each(function () {
+                var $this = $(this);
+                if ($this.height() > 0) {
+                    return;
+                }
+                $this.parent().css('position', 'relative');
+                var img = $this.prev();
+                var position = img.position();
+                $this.css({
+                    'height': img.height(),
+                    'width': img.width(),
+                    'line-height': img.height() + 'px',
+                    'left': position.left,
+                    'top': position.top
+                });
+            });
+        });
+        $(window).load(function () {
+            $('.acv_comment').click(function () {
+                var $this = $(this);
+                var show_more = $this.find('.show_more');
+                if (show_more.length == 0) {
+                    return;
+                }
+                if (!$this.hasClass('acv_comment_full_size')) {
+                    $this.addClass('acv_comment_full_size');
+                    show_more.html(' &UpTeeArrow; 收起');
+                } else {
+                    $this.removeClass('acv_comment_full_size');
+                    show_more.html(' &DownTeeArrow; 展开');
+                }
+            }).each(add_show_more);
+        });
+    })($);
+</script>
+<div class="break"></div>
+</div>
+</div>
+<a id="nav_top" style="cursor:pointer;" title="回到页头"><span>&#9650;</span></a>
+<div id="footer">
+<a href="http://www.beian.miit.gov.cn/" target="_blank" rel="external nofollow">鄂ICP备11008023号-1</a> · <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42018502002747" target="_blank" rel="external nofollow">鄂公网安备42018502002747号</a> · 投稿及反馈：TG@jandan.com
+</div>
+<script>
+(function(){
+    var bp = document.createElement('script');
+     bp.src = 'http://push.zhanzhang.baidu.com/push.js'; 
+     var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-462921-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-462921-3');
+</script>
+</div>
+</body>
+</html>
+
+0
+
+
